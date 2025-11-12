@@ -19,6 +19,6 @@ variable "sg_names" {
   # frontend load balancer
   "frontend-lb",
   # Backend ALB
-  "backend_alb"
+  "backend-alb"
   ]
 }
